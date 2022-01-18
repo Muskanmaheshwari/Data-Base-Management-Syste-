@@ -1,0 +1,1 @@
+SELECT * FROM e_transactions WHERE month(ordered_time) = 2 or month(ordered_time) =  7 ORDER BY cost;

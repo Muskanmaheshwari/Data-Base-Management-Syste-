@@ -1,0 +1,1 @@
+SELECT order_id,shipping_time FROM e_transactions WHERE ordered_time < '2021-06-30' ORDER BY cost ;

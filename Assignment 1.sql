@@ -1,0 +1,1 @@
+SELECT * FROM Emp_data WHERE Contract = 'FTE' AND Dept IN ('D1','D3');

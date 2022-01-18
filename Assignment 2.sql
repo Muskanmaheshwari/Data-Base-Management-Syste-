@@ -1,0 +1,1 @@
+SELECT DISTINCT Dept FROM Emp_data;
